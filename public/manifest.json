@@ -1,0 +1,13 @@
+{
+  "short_name": "cubos-movie",
+  "name": "Cubos Movie",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone"
+}
